@@ -1,0 +1,646 @@
+{
+   "plus_code" : {
+      "compound_code" : "HMRG+QX2 Kesawan, Medan City, North Sumatra, Indonesia",
+      "global_code" : "6MMWHMRG+QX2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jalan Pos",
+               "short_name" : "Jl. Pos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kecamatan Medan Barat",
+               "short_name" : "Kec. Medan Bar.",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kota Medan",
+               "short_name" : "Kota Medan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sumatera Utara",
+               "short_name" : "Sumatera Utara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20111",
+               "short_name" : "20111",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jl. Pos No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20111, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.592343,
+                  "lng" : 98.6776893
+               },
+               "southwest" : {
+                  "lat" : 3.591566299999999,
+                  "lng" : 98.67710649999999
+               }
+            },
+            "location" : {
+               "lat" : 3.5919375,
+               "lng" : 98.67733539999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.593303630291502,
+                  "lng" : 98.6787468802915
+               },
+               "southwest" : {
+                  "lat" : 3.590605669708497,
+                  "lng" : 98.67604891970848
+               }
+            }
+         },
+         "place_id" : "ChIJE5O3bcYxMTARUSV9UTBlhlo",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Ina Dharma Deli",
+               "short_name" : "Grand Ina Dharma Deli",
+               "types" : [ "establishment", "point_of_interest", "transit_station" ]
+            },
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kecamatan Medan Barat",
+               "short_name" : "Kec. Medan Bar.",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kota Medan",
+               "short_name" : "Kota Medan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sumatera Utara",
+               "short_name" : "Sumatera Utara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Ina Dharma Deli, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.59171,
+               "lng" : 98.67702
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.593058980291503,
+                  "lng" : 98.67836898029151
+               },
+               "southwest" : {
+                  "lat" : 3.590361019708498,
+                  "lng" : 98.6756710197085
+               }
+            }
+         },
+         "place_id" : "ChIJzT0zc8YxMTARebAkSyLz7Bo",
+         "plus_code" : {
+            "compound_code" : "HMRG+MR Kesawan, Medan City, North Sumatra, Indonesia",
+            "global_code" : "6MMWHMRG+MR"
+         },
+         "types" : [ "establishment", "point_of_interest", "transit_station" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "HMRG+QX",
+               "short_name" : "HMRG+QX",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Medan Barat",
+               "short_name" : "Medan Barat",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Medan City",
+               "short_name" : "Medan City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "HMRG+QX Kesawan, Medan City, North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.592,
+                  "lng" : 98.67749999999999
+               },
+               "southwest" : {
+                  "lat" : 3.591875,
+                  "lng" : 98.677375
+               }
+            },
+            "location" : {
+               "lat" : 3.5918785,
+               "lng" : 98.67738079999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.593286480291502,
+                  "lng" : 98.67878648029151
+               },
+               "southwest" : {
+                  "lat" : 3.590588519708497,
+                  "lng" : 98.6760885197085
+               }
+            }
+         },
+         "place_id" : "GhIJ8aSFyyq8DEARDbz_NFqrWEA",
+         "plus_code" : {
+            "compound_code" : "HMRG+QX Kesawan, Medan City, North Sumatra, Indonesia",
+            "global_code" : "6MMWHMRG+QX"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "2",
+               "short_name" : "2",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jalan Balai Kota",
+               "short_name" : "Jl. Balai Kota",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kecamatan Medan Barat",
+               "short_name" : "Kec. Medan Bar.",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kota Medan",
+               "short_name" : "Kota Medan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sumatera Utara",
+               "short_name" : "Sumatera Utara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20231",
+               "short_name" : "20231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jl. Balai Kota No.2, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.5923942,
+               "lng" : 98.6768642
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.593743180291502,
+                  "lng" : 98.67821318029149
+               },
+               "southwest" : {
+                  "lat" : 3.591045219708497,
+                  "lng" : 98.67551521970849
+               }
+            }
+         },
+         "place_id" : "ElpKbC4gQmFsYWkgS290YSBOby4yLCBLZXNhd2FuLCBLZWMuIE1lZGFuIEJhci4sIEtvdGEgTWVkYW4sIFN1bWF0ZXJhIFV0YXJhIDIwMjMxLCBJbmRvbmVzaWEiGhIYChQKEglfy5F5xjExMBHS-vlUaIoN3hAC",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1",
+               "short_name" : "1",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Jalan Pos",
+               "short_name" : "Jl. Pos",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Kecamatan Medan Barat",
+               "short_name" : "Kec. Medan Bar.",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kota Medan",
+               "short_name" : "Kota Medan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sumatera Utara",
+               "short_name" : "Sumatera Utara",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20231",
+               "short_name" : "20231",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Jl. Pos No.1, Kesawan, Kec. Medan Bar., Kota Medan, Sumatera Utara 20231, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.5916146,
+                  "lng" : 98.67761209999999
+               },
+               "southwest" : {
+                  "lat" : 3.591469,
+                  "lng" : 98.67712809999999
+               }
+            },
+            "location" : {
+               "lat" : 3.591527999999999,
+               "lng" : 98.6773664
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.592890780291503,
+                  "lng" : 98.6787190802915
+               },
+               "southwest" : {
+                  "lat" : 3.590192819708498,
+                  "lng" : 98.67602111970849
+               }
+            }
+         },
+         "place_id" : "ChIJ-7NVEsYxMTARghNEnLHywVs",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kesawan",
+               "short_name" : "Kesawan",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Medan Barat",
+               "short_name" : "Medan Barat",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Medan City",
+               "short_name" : "Medan City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kesawan, Medan Barat, Medan City, North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.6012,
+                  "lng" : 98.681882
+               },
+               "southwest" : {
+                  "lat" : 3.584092999999999,
+                  "lng" : 98.6702781
+               }
+            },
+            "location" : {
+               "lat" : 3.594228,
+               "lng" : 98.67518640000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.6012,
+                  "lng" : 98.681882
+               },
+               "southwest" : {
+                  "lat" : 3.584092999999999,
+                  "lng" : 98.6702781
+               }
+            }
+         },
+         "place_id" : "ChIJjwV90cUxMTARuVGFVi_nu3U",
+         "types" : [ "administrative_area_level_4", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medan Barat",
+               "short_name" : "Medan Barat",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Medan City",
+               "short_name" : "Medan City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medan Barat, Medan City, North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.6325021,
+                  "lng" : 98.681882
+               },
+               "southwest" : {
+                  "lat" : 3.584092999999999,
+                  "lng" : 98.6472749
+               }
+            },
+            "location" : {
+               "lat" : 3.6095088,
+               "lng" : 98.66533090000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.6325021,
+                  "lng" : 98.681882
+               },
+               "southwest" : {
+                  "lat" : 3.584092999999999,
+                  "lng" : 98.6472749
+               }
+            }
+         },
+         "place_id" : "ChIJ9bqPduMxMTARYLO5HYa4Z8s",
+         "types" : [ "administrative_area_level_3", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medan",
+               "short_name" : "Medan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medan City",
+               "short_name" : "Medan City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medan, Medan City, North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.796456,
+                  "lng" : 98.74651999999999
+               },
+               "southwest" : {
+                  "lat" : 3.488117,
+                  "lng" : 98.592467
+               }
+            },
+            "location" : {
+               "lat" : 3.5951956,
+               "lng" : 98.67222270000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.796456,
+                  "lng" : 98.74651999999999
+               },
+               "southwest" : {
+                  "lat" : 3.488117,
+                  "lng" : 98.592467
+               }
+            }
+         },
+         "place_id" : "ChIJ_bI-HMwxMTARYoKQpsgx1CM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medan City",
+               "short_name" : "Medan City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medan City, North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.796456,
+                  "lng" : 98.74651999999999
+               },
+               "southwest" : {
+                  "lat" : 3.488117,
+                  "lng" : 98.592467
+               }
+            },
+            "location" : {
+               "lat" : 3.6004249,
+               "lng" : 98.68206359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.796456,
+                  "lng" : 98.74651999999999
+               },
+               "southwest" : {
+                  "lat" : 3.488117,
+                  "lng" : 98.592467
+               }
+            }
+         },
+         "place_id" : "ChIJ-bZg7HIyMTARdOMdSIdObuc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Sumatra",
+               "short_name" : "North Sumatra",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Sumatra, Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.3013449,
+                  "lng" : 100.4257811
+               },
+               "southwest" : {
+                  "lat" : -0.6387609,
+                  "lng" : 97.0575619
+               }
+            },
+            "location" : {
+               "lat" : 2.1153547,
+               "lng" : 99.54509739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.3013449,
+                  "lng" : 100.4257811
+               },
+               "southwest" : {
+                  "lat" : -0.6387609,
+                  "lng" : 97.0575619
+               }
+            }
+         },
+         "place_id" : "ChIJhxxy61r51y8RC8vXCYE-p6w",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indonesia",
+               "short_name" : "ID",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Indonesia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.216999899999999,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 94.7351
+               }
+            },
+            "location" : {
+               "lat" : -0.7892749999999999,
+               "lng" : 113.921327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.216999899999999,
+                  "lng" : 141.0425
+               },
+               "southwest" : {
+                  "lat" : -11.1082999,
+                  "lng" : 94.7351
+               }
+            }
+         },
+         "place_id" : "ChIJtwRkSdcHTCwRhfStG-dNe-M",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
